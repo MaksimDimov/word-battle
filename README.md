@@ -10,4 +10,4 @@ The game to check your speed of typing. Here you need to type as much words as y
 </p>
 
 # Demo 
-To try the word game [click here](https://maksimdimov.github.io/word-battle/).
+To try the word game [click here](https://maksimdimov.github.io/word-battle/) .
