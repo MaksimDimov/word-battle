@@ -109,3 +109,32 @@ body {
 .hidden {
     display: none;
 }
+
+/*//////////////////*/
+/* Change for phone */
+/*//////////////////*/
+
+@media (max-width: 800px) {
+    .container {
+        width: 100%;
+    }
+
+    .game-div {
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    .word-div {
+        width: 80%;
+        margin: 15px 0;
+    }
+
+    .word-input {
+        width: 80%;
+        margin: 15px 0 ;
+    }
+
+    .start-button {
+        margin:  0;
+    }
+}
